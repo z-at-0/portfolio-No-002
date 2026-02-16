@@ -11,3 +11,9 @@
 ## 技術スタック
 - 使用言語: [HTML, CSS, JavaScript]
 - ライブラリ:なし(純粋な静的サイトとして作成)
+
+## デモサイト
+URL:https://z-at-0.github.io/portfolio-No-002/
+
+## ライセンス
+© 2021 Y.K
