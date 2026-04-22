@@ -108,10 +108,10 @@ body {
 }
 .copyright {
 	position: fixed;
-	right: 0;
+	right: 1%;
 	bottom:0;
-	color: white;
-	font-size: 6px;
+	color: #ffffff;
+	font-size: 1em;
 }
 
 
